@@ -4,16 +4,16 @@
 
 ### Category Name 1 
 
-[Alumni Dashboard Overview (ETL/Alteryx/Tableau](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Alumni Dashboard Overview (ETL/Alteryx/Tableau)](/sample_page)
+<br /><img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Geocoding with Python](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br /><img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Extracting Tableau data sources with Python](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br /><img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
