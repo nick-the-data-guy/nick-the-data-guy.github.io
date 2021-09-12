@@ -28,9 +28,9 @@
 ---
 
 ### Fun drawings
-[How do <b>our</b> dashboards work?](/pdf/tableau dashboard reporting.pdf)
+[How do <b>our</b> dashboards work?](/pdf/tableau_dashboard_reporting.pdf)
 
-<br /><img src="images/tableau dashboard reporting-01.jpg?raw=true"/>
+<br /><img src="images/tableau_dashboard_reporting.jpg?raw=true"/>
 
 ---
 [Data Landscape](/pdf/sample_presentation.pdf)
