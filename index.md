@@ -28,8 +28,8 @@
 ---
 
 ### Fun drawings
-[How do <b>our</b> dashboards work?](/pdf/tableau.dashboard.reporting.pdf)
-)
+[How do <b>our</b> dashboards work?](/pdf/tableau dashboard reporting.pdf)
+
 <br /><img src="images/tableau dashboard reporting-01.jpg?raw=true"/>
 
 ---
