@@ -28,11 +28,9 @@
 ---
 
 ### Fun drawings
-[How do <b>our</b> dashboards work?](/files/7149145/tableau.dashboard.reporting.pdf)
+[How do <b>our</b> dashboards work?](/pdf/tableau.dashboard.reporting.pdf)
 )
 <br /><img src="images/tableau dashboard reporting-01.jpg?raw=true"/>
-
-![tableau dashboard reporting-01](https://user-images.githubusercontent.com/20006854/132976624-f254005c-2a79-4bfc-b39a-727e09b91094.jpg)
 
 ---
 [Data Landscape](/pdf/sample_presentation.pdf)
