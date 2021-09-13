@@ -8,8 +8,10 @@
 <br /><img src="images/ALUMNI_ETL overview.jpg?raw=true"/>
 
 ---
-[Geocoding with Python (Jupyter Notebook)](/pdf/sample_presentation.pdf)
-<br /><img src="images/geocaching.png?raw=true"/>
+[Analytics: Geocoding with Python (Jupyter Notebook)](/pdf/sample_presentation.pdf)
+<br />A project to investigate migration patterns of different alumni groups after graduation. Do they move back in with mom and dad? Or do they move far away? Do some majors tend to move farther away than others? Do members of different demographic features (race/ethnicity, sex) have different migration patterns? Come find out!
+<br />
+<img src="images/geocaching.png?raw=true"/>
 
 ---
 [Extracting Tableau data sources with Python (Jupyter Notebook)](http://example.com/)
