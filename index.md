@@ -5,7 +5,7 @@
 ### Cool BI Data Projects
 
 [Alumni Dashboard Overview (ETL/Alteryx/Tableau)](/sample_page)
-<br /><img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br /><img src="ALUMNI_ETL overview.jpg?raw=true"/>
 
 ---
 [Geocoding with Python](/pdf/sample_presentation.pdf)
