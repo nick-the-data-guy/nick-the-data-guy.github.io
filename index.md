@@ -8,11 +8,11 @@
 <br /><img src="images/ALUMNI_ETL overview.jpg?raw=true"/>
 
 ---
-[Geocoding with Python](/pdf/sample_presentation.pdf)
+[Geocoding with Python (Jupyter Notebook)](/pdf/sample_presentation.pdf)
 <br /><img src="images/geocaching.png?raw=true"/>
 
 ---
-[Extracting Tableau data sources with Python](http://example.com/)
+[Extracting Tableau data sources with Python (Jupyter Notebook)](http://example.com/)
 <br /><img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
