@@ -9,7 +9,9 @@
 
 ---
 [Analytics: Geocoding with Python (Jupyter Notebook)](/pdf/sample_presentation.pdf)
-<br />A project to investigate migration patterns of different alumni groups after graduation. Do they move back in with mom and dad? Or do they move far away? Do some majors tend to move farther away than others? Do members of different demographic features (race/ethnicity, sex) have different migration patterns? Come find out!
+<br />
+<br />This was a fun project to investigate migration patterns of different alumni groups after graduation. Do they move back in with mom and dad? Or do they move far away? Do some majors tend to move farther away than others? Do members of different demographic features (race/ethnicity, sex) have different migration patterns? Come find out!
+<br />Note: all PII has been stripped.
 <br />
 <img src="images/geocaching.png?raw=true"/>
 
@@ -30,8 +32,9 @@
 ---
 
 ### Fun drawings
-[How do <b>our</b> dashboards work?](/pdf/tableau_dashboard_reporting.pdf)
-
+[How do **our** dashboards work?](/pdf/tableau_dashboard_reporting.pdf)
+<br />
+<br />I use this drawing all the time when doing consulting sessions with our clients in Zoom meetings. Being able to **visually** explain how data flows in from various sources into our SQL Server in the basement; to explain the boundaries between data source, report/Tableau server, and Analytics Portal; and to show the complexities of what goes on under the hood, has been an invaluable tool 
 <br /><img src="images/tableau_dashboard_reporting.jpg?raw=true"/>
 
 ---
