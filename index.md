@@ -9,7 +9,7 @@
 
 ---
 [Geocoding with Python](/pdf/sample_presentation.pdf)
-<br /><img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br /><img src="images/geocaching.png?raw=true"/>
 
 ---
 [Extracting Tableau data sources with Python](http://example.com/)
